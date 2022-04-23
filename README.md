@@ -1,2 +1,2 @@
-# advent_of_code
-tasks from advent of code
+# Description
+Some solutions for Advent of code competitions.
